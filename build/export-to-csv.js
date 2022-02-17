@@ -220,4 +220,3 @@ function objectAssign(target) {
     }
     return to;
 }
-//# sourceMappingURL=export-to-csv.js.map
