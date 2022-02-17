@@ -9,6 +9,7 @@
     "scripts": {
         "dev": "tsc --watch",
         "test": "tsc && karma start",
+        "build": "tsc",
         "prepublishOnly": "tsc"
     },
     "keywords": [
