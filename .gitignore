@@ -4,12 +4,8 @@ typings
 Thumbs.db
 .DS_Store
 
-*.js
 !karma.conf.js
-*.map
-*.d.ts
 .idea/
 *.iml
 test/
 coverage/
-# build/
